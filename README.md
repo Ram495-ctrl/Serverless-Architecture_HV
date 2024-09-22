@@ -52,3 +52,45 @@ After
 
 ![image](https://github.com/user-attachments/assets/25870b63-a04f-4690-b955-8f67fb063a10)
 
+**Assignment 3**: Monitor Unencrypted S3 Buckets Using AWS Lambda and Boto3
+
+1.	created the IAM role for lamda function
+
+![image](https://github.com/user-attachments/assets/40cbcd8d-93be-4ed3-8695-47c6c711b8b7)
+
+2.	Using existing Lamda function, Modified the Python code
+
+![image](https://github.com/user-attachments/assets/16fc6f17-edd8-499f-8809-4f1162c1507e)
+
+3.	Code executed properly
+
+![image](https://github.com/user-attachments/assets/722a9e20-d869-4d35-bb37-ec8bd509f007)
+
+**Assignment 4**: Automatic EBS Snapshot and Cleanup Using AWS Lambda and Boto3
+
+Created EC2 instance
+
+![image](https://github.com/user-attachments/assets/c1f5c38e-731d-49cf-a3b7-69686532ec59)
+
+EBS volume
+
+![image](https://github.com/user-attachments/assets/8a650c74-eba9-48b1-9cb0-53568ea65c8e)
+
+Added role AmazonEC2FullAccess to IAM
+
+![image](https://github.com/user-attachments/assets/dcf23cdd-5a7f-45ab-a948-cd756bd71e63)
+
+Using existing Lamda function, Modified the Python code
+
+![image](https://github.com/user-attachments/assets/0f166656-0b00-4bfe-ac87-283aebe663a1)
+
+Code executed 
+
+![image](https://github.com/user-attachments/assets/e6074598-6fbb-409c-ad78-1c7013167ec2)
+
+
+
+
+
+
+
