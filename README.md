@@ -38,3 +38,17 @@ Git hub repo: https://github.com/Ram495-ctrl/Serverless-Architecture_HV.git
 
 ![image](https://github.com/user-attachments/assets/26f08173-dc96-4756-93b1-3079a94ddee1)
 
+3.	Using existing Lamda function, Modified the Python code
+
+   ![image](https://github.com/user-attachments/assets/7f844a45-9488-411e-8b94-48eb7a4c62d1)
+
+4.	Deployed and tested the code(not able to add files older 30 days so modified the code with 30 sec).
+
+Before
+
+   ![image](https://github.com/user-attachments/assets/038a6965-aaaf-48ff-afdd-a75d358b57c4)
+
+After
+
+![image](https://github.com/user-attachments/assets/25870b63-a04f-4690-b955-8f67fb063a10)
+
