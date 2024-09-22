@@ -90,7 +90,7 @@ Code executed
 
 <h1> Rama Srinivas <h1> 
 
-• Check the detailed test results and instructions in the word Documentation which is loacated in Serverless-Architecture_HV repo
+Check the detailed test results and instructions in the word Documentation which is loacated in Serverless-Architecture_HV repo
 
 
 
